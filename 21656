@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; " />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<title>Elemam Ali</title>
+</head>
+<body>
+<header>
+<a  class="logo" >EL Ali </a>
+<nav class="navogation">
+<a href="#services"  >Services</a>
+<a href="#projects" >Projects</a>
+<a href="#contact" >Contact</a>
+</nav>
+
+</header>
+
+<section class="main">
+<div>
+<h2>Hello I'm Yousef<br><span>ElemamAli School</span></h2>
+<a href="#contact" class="main-btn" >Know More</a>
+<div class="icons">
+<a href="https://www.facebook.com/groups/800119270125624/?ref=share" ><i class="fa-brands fa-facebook-f"></i></a>
+<a href="https://www.facebook.com/groups/800119270125624/?ref=share" ><i class="fa-brands fa-facebook-messenger"></i></a>
+<a href="https://www.facebook.com/groups/800119270125624/?ref=share "><i class="fa-brands fa-whatsapp"></i></a>
+<a href="https://www.facebook.com/groups/800119270125624/?ref=share" ><i class="fa-brands fa-telegram"></i></a>
+</div>
+</div>
+</section>
+
+<section class="cards" id="services">
+<h2 class="title">Services</h2>
+<div class="content">
+<div class="card">
+<div class="icon">
+<i class="fa-solid fa-school"></i>
+</div>
+
+<div class="info">
+<h3>School</h3>
+<p>
+Parents should love their children’s schools so that they learn and become smart. Among them are parents now, the engineer, the doctor, and the scientist. The students should attend to this until they become what they wish
+ </p>
+</div>
+</div>
+
+<div class="card">
+<div class="icon">
+<i class="fa-solid fa-user-graduate"></i></i></i>
+</div>
+<div class="info">
+<h3>Students</h3>
+<p>
+The student is an educated and intelligent person. We are all one. We are all smart. There is no bullying or ridicule of anyone. Anyone who does any of this is punished. We must preserve the school and its furniture so that it remains beautiful in front of the whole world.
+ </p>
+ </div>
+ </div>
+ 
+<div class="card">
+<div class="icon">
+<i class="fa-solid fa-arrow-up-right-from-square"></i>
+
+
+</div>
+<div class="info">
+<h3>Educational System</h3>
+<p>
+The educational system is very successful in this school. We care about your children like you and more. Parents should appreciate this and help with us to advance your children
+ </p>
+</div>
+</div>
+</section>
+
+<section class="projects" id="projects">
+<h2 class="title">projects</h2>
+<div class="content">
+<div class="project-card">
+<div class="project-image ">
+<img src="image/o.jpg">
+</div>
+<div class="project-info">
+<p class="project-category">Conversation With Manager</p>
+<strong class="project-title">
+<span>Elemam Ali</span>
+<a href="https://youtu.be/bla-VUtD21g"  class="see-more">See More</a>	
+</strong>
+</div>
+</div>
+
+<div class="project-card">
+<div class="project-image ">
+<img src="image/ج.jpg">
+</div>
+<div class="project-info">
+<p class="project-category">Salute The Flag</p>
+<strong class="project-title">
+<span>Elemam Ali</span>
+<a href="https://youtu.be/q97W9KxhQ28"  class="see-more">See More</a>	
+</strong>
+</div>
+</div>
+
+<div class="project-card">
+<div class="project-image ">
+<img src="image/ح.jpg">
+</div>
+<div class="project-info">
+<p class="project-category">In Class</p>
+<strong class="project-title">
+<span>Elemam Ali</span>
+<a href="https://youtu.be/DW4oWMUpsEw0"  class="see-more">See More</a>	
+</strong>
+</div>
+</div>
+
+
+
+</div>
+</section>
+<section class="cards-contact" id="contact">
+<h class="title">Contact</h>
+<div class="content">
+<div class="card">
+<div class="icon">
+<i class="fa-solid fa-phone"></i>
+</div>
+<div class="info">
+<h3>Phone</h3>
+<p>01553487984</p>
+</div>
+</div>
+
+<div class="card">
+<div class="icon">
+<i class="fa-solid fa-envelope"></i>
+</div>
+<div class="info">
+<h3>Email</h3>
+<p><style type="text/css"></style>www.elemamalischool.com</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer class="footer">
+<p class="footer-title">Copyrights @<span>Yousef Amr</span></p>
+<div class="icon">
+<a href="https://www.facebook.com/groups/800119270125624/?ref=share" ><i class="fa-brands fa-facebook-f"></i></a>
+<a href="https://www.facebook.com/groups/800119270125624/?ref=share" ><i class="fa-brands fa-facebook-messenger"></i></a>
+<a href="https://www.facebook.com/groups/800119270125624/?ref=share "><i class="fa-brands fa-whatsapp"></i></a>
+</div>
+</footer>
+</body>
+
+
+<style>
+
+*{
+font-family:arial;
+margin:0;
+padding:0;
+box-sizing:border-box;
+scroll-behavior:smooth;
+
+}
+
+header{
+background-color:#f0f0f0;
+width:100%;
+position:fixed;
+z-index:999;
+display:flex;
+justif-content:space-between;
+align-items:center;
+padding:10px 30px;
+}
+
+.logo{
+text-decoration:none;
+color:#3a6cf4;
+text-transform:uppercase;
+font-weight:500;
+font-size:1em;
+}
+
+.navogation a{
+text-decoration:none;
+color:#3a6cf4;
+font-size:15px;
+font-weight:500;
+padding-left:16px;
+}
+
+.navogation  a:hover{
+color:#601cfc;
+}
+
+
+
+section{
+padding:70px 10px;
+}
+.main{
+width:100%;
+min-height:100;
+display:flex;
+align-items:center;
+background-image:url(image/h.jpg) ;
+backgrond-size:cover;
+background-position:center;
+}
+
+.main h2{
+color:#4e9eff;
+font-size:1.4em
+font-weight:500;
+}
+
+.main h2 span{
+display:inline-block;
+margin-top:10px;
+color:#0a49f6;
+font-size:1.5em;
+font-weight:500;
+margin-bottom:30px;
+margin-top:10px;
+}
+.main-btn{
+color:#fff;
+background-color:#3a6cf4;
+text-decoration:none;
+font-size:1.8em;
+font-weight:600;
+display:inline-block;
+padding:0.9375px 2.1875px;
+letter-spacing:1px;
+border-radius:30px;
+margin-bottom:40px;
+transition:0.7s ease;
+}
+
+.main-btn:hover {
+color:red;
+transform: scale(1.1);
+}
+
+.icons a{
+color:white;
+font-size:2em;
+padding-right:30px;
+}
+
+.title{
+display:flex;
+justify-content:center;
+color:#3a6cf4;
+font-size:2.2em;
+font-weight:800;
+margin-bottom:30px;
+}
+
+.content {
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+flex-direction:row;
+}
+
+
+
+.card{
+background-color:#fff;
+width:21.25;
+box-shadow:0 5px 25px rgba(1 1 1 / 15%);
+border-radius:10px;
+padding:25px;
+margin:30px;
+transition:0.7s ease;
+}
+
+.card:hover{
+transform: scale(1.1);
+}
+
+.card .icon{
+color:#36acf4;
+font-size:8em;
+text-align:center;
+}
+.info{
+text-align:center;
+}
+
+.info h3{
+color:3a6cf4;
+font-size:1.2em;
+font-weight:700;
+margin:10px;
+
+}
+
+.info p{
+letter-spacing:1px;
+
+font-weight:800;
+color:#000;
+}
+
+.projects{
+background-color:grey;
+}
+
+.projects .content{
+margin-top:30px;
+}
+
+
+.project-card{
+background-color:#fff;
+border:1px solid #fff;
+min-height:14em;
+width:23em;
+overflow:hidden;
+border-radius:10px;
+margin:20px;
+transition:0.7s ease;
+}
+
+.project-card:hover{
+transform:scale(1.1);
+}
+
+.project-image img{
+width:100%;
+
+}
+
+
+.project-card:hover .project-image{
+opacity:0.9;
+}
+.project-info{
+padding:1em;
+}
+project-category{
+font-size:0.8em;
+color:#000;
+}
+
+.project-title{
+display:flex;
+justify-content:space-between;
+text-transform:uppercase;
+margin-top:10px;
+font-weight:800;
+}
+
+
+.see-more{
+text-decoration:none;
+color:#3a6cf4;
+}
+
+.see-more:hover{
+color:#601cfc;
+}
+
+.contact .icon{
+font-size:4.5em;
+}
+
+.cotent .info h3{
+color:#000;
+}
+
+.footer{
+background-color:#000016;
+color:#fff;
+padding:2em;
+display:flex;
+justify-content:space-between:
+}
+
+.footer-title{
+font-size:1.3em;
+font-weight:600;
+}
+
+.footer-title span{
+color:#3a6cf4;
+}
+
+.footer .icon a {
+font-size:1.3em;
+color:white;
+padding:0 18px 0 0;
+}
+@media(max-width:1023px){
+header{
+padding:12px 20px ;
+}
+.navigation a{
+padding-left:10px;
+}
+.title{
+font-size:1.8em;
+}
+section{
+padding:80px 20px;
+}
+.main-content h2{
+font-size:1em;
+}
+.main-content h3{
+font-size:1.6em;
+}
+
+}
+
+@media(max-width:641px){
+body{
+font-size:12px
+}
+.main-content h2{
+font-size:0.8em;
+}
+.main-content h3{
+font-size:1.4em;
+}
+
+@media(mix-width:300px){
+body{
+font-size:10px;
+}
+}
+
+</style>
+
+
+
+</html>
+</DOCTYPE>
